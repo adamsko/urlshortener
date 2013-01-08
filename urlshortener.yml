@@ -1,0 +1,6 @@
+http:
+    rootPath: /service/*
+
+mongohost: localhost
+mongoport: 27017
+mongodb: urlshortenerdb
